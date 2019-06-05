@@ -1,0 +1,13 @@
+node_modules/
+.idea/
+package-lock.json
+.DS_Store
+target
+*.iml
+.classpath
+.project
+.settings/
+.vscode
+.history/
+project/dss-portal/dist/
+project/build-records.json
