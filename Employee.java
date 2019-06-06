@@ -1,9 +1,9 @@
 import java.io.*;
 public class Employee{
-    String name;
+    public String name;
     int age;
     String designation;
-    double salary;
+    private double salary;
 
     public Employee(String name){
        this.name=name;
